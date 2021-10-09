@@ -28,4 +28,4 @@ client.on('message', message => {
 		}
 	}
 });
-//the texts in this code is türkish
+//the texts are türkish in this code
